@@ -23,6 +23,8 @@
 
 ## Overview
 
+The Archer series focuses on research into RL algorithms and training for medium and small-scale models, aiming to deepen the community's understanding of the fundamental principles of reinforcement learning (RL) on large language models (LLMs). All released content will be comprehensively open-sourced to advance community research development.
+
 <div align="center">
 <img src="assets/ArcherCodeR-1.5B-DAPO.png" width="100%"/>
 
